@@ -1,5 +1,5 @@
 public class ContohReturnValue {
-    public static void tambah(int a, int b) {
+    public static int tambah(int a, int b) {
         int hasil = a + b;
         return hasil;
     }
